@@ -1,2 +1,1 @@
-print("Hello from Git + Python")
-print("Second line")
+print("Hello")
